@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<br />
 - 👨‍💻 Check Out My Portfolio: [https://humza-aa.github.io/Portfolio/](https://humza-aa.github.io/Portfolio/)
 
 - 📫 Contact Me: **humzaaamir31@gmail.com**
