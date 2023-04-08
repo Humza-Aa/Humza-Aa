@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Humza Aamir</h1>
 <h3 align="left">Welcome to my GitHub profile! I am a junior software developer who is passionate about building innovative and user-friendly applications. My skill set includes proficiency in programming languages such as JavaScript, Python, and Java, as well as frameworks and tools such as React, Node.js and Git. <br /> <br /> I am a recent graduate with a degree in Computer Engineering and have completed several internships and personal projects, where I gained experience in software development, testing, and debugging. I am eager to learn and grow my skills, and I am committed to writing clean and efficient code that follows best practices and coding standards. <br /> <br /> I believe in the power of open-source software and community-driven development, and I actively contribute to several open-source projects in my free time. I am also interested in collaborating with other developers on exciting projects and challenges. <br /> <br />Thank you for visiting my profile, and I look forward to connecting with other developers and contributing to the community!</h3> <br />
 
+
+
+<h3 align="left">Connect with me:</h3>
+
+<br />
 - 👨‍💻 Check Out My Portfolio: [https://humza-aa.github.io/Portfolio/](https://humza-aa.github.io/Portfolio/)
 
 - 📫 Contact Me: **humzaaamir31@gmail.com**
-
 <br />
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
