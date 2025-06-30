@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check Out My Portfolio: [Humza_Aamir_PortfolioV2](https://humza-aamir.vercel.app/)
 
-- 📫 Contact Me: **humzaaamir31@gmail.com**
+- 📫 Contact Me: **humzaa.dev@gmail.com**
 <br />
 
 <p align="left">
